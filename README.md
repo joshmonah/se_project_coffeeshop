@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I want to change the background color, change the circle into a a big coffee bean and change that animation to the coffee bean being grinded up.
